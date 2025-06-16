@@ -58,9 +58,6 @@ Errors during aggregation or joins were tricky to trace.
 "What helped me the most was organizing code into clear functions, being patient, and debugging step-by-step. Deleting unused variables and carefully reading error messages saved me more than once." – Lisa
 
 # Project Structure
-graphql
-Copy
-Edit
  eduhub-mongodb-project/
 ├── eduhub_mongodb_Project.ipynb        # Main notebook with queries and outputs
 ├── eduhub_queries.py                   # Python script with all MongoDB operations

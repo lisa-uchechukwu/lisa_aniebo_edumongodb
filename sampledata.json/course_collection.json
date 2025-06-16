@@ -1,0 +1,268 @@
+[{
+  "_id": {
+    "$oid": "684e9c7b27e46bb527542cff"
+  },
+  "courseId": "course_1",
+  "title": "Across cost appear",
+  "description": "Line difficult health politics series community wife. Probably thing break interest safe. Teach worker performance process.",
+  "instructorId": "instructor_002",
+  "category": "Business",
+  "level": "advanced",
+  "duration": 2,
+  "price": 183.01,
+  "tags": [
+    "voice",
+    "later",
+    "the farmer"
+  ],
+  "createdAt": {
+    "$date": "2024-11-01T23:00:31.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T11:08:22.000Z"
+  },
+  "isPublished": false,
+  "rating": 4.2,
+  "instructorName": "Alice Johnson"
+},
+{
+  "_id": {
+    "$oid": "684e9c7b27e46bb527542d00"
+  },
+  "courseId": "course_2",
+  "title": "Bill foot church operation skill",
+  "description": "Trade nation us pick detail forget really suffer.",
+  "instructorId": "instructor_004",
+  "category": "Programming",
+  "level": "beginner",
+  "duration": 9.5,
+  "price": 119.97,
+  "tags": [
+    "property",
+    "my",
+    "discover"
+  ],
+  "createdAt": {
+    "$date": "2025-06-12T12:48:27.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T11:09:25.000Z"
+  },
+  "isPublished": true,
+  "rating": 3.4,
+  "instructorName": "Bob Smith"
+},
+{
+  "_id": {
+    "$oid": "684e9c7b27e46bb527542d01"
+  },
+  "courseId": "course_3",
+  "title": "Subject daughter other",
+  "description": "Attention watch tend artist modern dog citizen. Political social natural week forget cold. Listen might floor again exactly section sign.",
+  "instructorId": "instructor_004",
+  "category": "Business",
+  "level": "intermediate",
+  "duration": 5.3,
+  "price": 72.84,
+  "tags": [
+    "foreign",
+    "training",
+    "ability"
+  ],
+  "createdAt": {
+    "$date": "2024-11-12T19:35:33.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T11:06:51.000Z"
+  },
+  "isPublished": true,
+  "rating": 3.7,
+  "instructorName": "Charlie Lee"
+},
+{
+  "_id": {
+    "$oid": "684e9c7b27e46bb527542d02"
+  },
+  "courseId": "course_4",
+  "title": "Ask yourself event",
+  "description": "Until camera pay accept. However agent identify fund. Several risk scene part one stand finally.",
+  "instructorId": "instructor_002",
+  "category": "Business",
+  "level": "advanced",
+  "duration": 4.2,
+  "price": 57.75,
+  "tags": [
+    "score",
+    "end",
+    "room",
+    "speak"
+  ],
+  "createdAt": {
+    "$date": "2024-07-09T15:57:48.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T11:08:49.000Z"
+  },
+  "isPublished": false,
+  "rating": 3.9,
+  "instructorName": "Diana Prince"
+},
+{
+  "_id": {
+    "$oid": "684e9c7b27e46bb527542d03"
+  },
+  "courseId": "course_5",
+  "title": "Figure heart partner four",
+  "description": "People glass fear. Never next particular nothing practice audience.",
+  "instructorId": "instructor_002",
+  "category": "Data Science",
+  "level": "beginner",
+  "duration": 7.6,
+  "price": 189.69,
+  "tags": [
+    "learn",
+    "might",
+    "can",
+    "run"
+  ],
+  "createdAt": {
+    "$date": "2025-04-02T10:54:38.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T11:09:27.000Z"
+  },
+  "isPublished": false,
+  "rating": 3.8,
+  "instructorName": "Ethan Hunt"
+},
+{
+  "_id": {
+    "$oid": "684e9c7b27e46bb527542d04"
+  },
+  "courseId": "course_6",
+  "title": "These enough never",
+  "description": "Whether wear how one. Determine add find. If member born color argue.",
+  "instructorId": "instructor_004",
+  "category": "Programming",
+  "level": "advanced",
+  "duration": 1.8,
+  "price": 66.28,
+  "tags": [
+    "order",
+    "reduce",
+    "seven"
+  ],
+  "createdAt": {
+    "$date": "2024-11-28T02:54:25.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T11:08:39.000Z"
+  },
+  "isPublished": false,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "684e9c7b27e46bb527542d05"
+  },
+  "courseId": "course_7",
+  "title": "Wind usually myself see",
+  "description": "Where civil south left small edge. Close woman traditional listen. Allow finish radio.",
+  "instructorId": "instructor_001",
+  "category": "Programming",
+  "level": "beginner",
+  "duration": 8.9,
+  "price": 7.65,
+  "tags": [
+    "necessary",
+    "suffer",
+    "actually",
+    "employee"
+  ],
+  "createdAt": {
+    "$date": "2025-03-22T00:54:42.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T11:10:31.000Z"
+  },
+  "isPublished": true,
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "684e9c7b27e46bb527542d06"
+  },
+  "courseId": "course_8",
+  "title": "Report local enter discussion",
+  "description": "Onto blue learn herself. Myself wind hold it determine. Sing decide participant exist course brother vote.",
+  "instructorId": "instructor_002",
+  "category": "Business",
+  "level": "intermediate",
+  "duration": 6.8,
+  "price": 149.92,
+  "tags": [
+    "factor",
+    "central",
+    "available",
+    "group"
+  ],
+  "createdAt": {
+    "$date": "2024-10-01T10:43:21.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T11:06:55.000Z"
+  },
+  "isPublished": false,
+  "rating": 3.8
+},
+{
+  "_id": {
+    "$oid": "684edb04b83d30de7abe2a3d"
+  },
+  "courseId": "course_e02e5e51",
+  "title": "economy",
+  "description": "Sit eye receive bill. Tax may bed top himself base seat. Rate science everybody Mrs mention popular maintain.",
+  "instructorId": "instructor_004",
+  "category": "business",
+  "level": "beginner",
+  "duration": 7.7,
+  "price": 152.93,
+  "tags": [
+    "value",
+    "well",
+    "act"
+  ],
+  "createdAt": {
+    "$date": "2025-06-15T15:39:00.776Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T15:39:00.776Z"
+  },
+  "isPublished": true,
+  "rating": 3.3
+},
+{
+  "_id": {
+    "$oid": "684f2403b83d30de7abe2a55"
+  },
+  "courseId": "course_10",
+  "title": "Intro to Bugs",
+  "description": "Learn to find and fix bugs",
+  "instructorId": "instructor_123",
+  "category": "Programming",
+  "level": "beginner",
+  "duration": 10,
+  "price": 0,
+  "tags": [
+    "bugs",
+    "debugging",
+    "intro"
+  ],
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-06-15T19:50:27.188Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T19:50:27.188Z"
+  }
+}]

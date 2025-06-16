@@ -1,0 +1,243 @@
+[{
+  "_id": {
+    "$oid": "684ebc3416b31fb0a3537fea"
+  },
+  "assignmentId": "assign_1",
+  "courseId": "course_4",
+  "lessonId": "lesson_7",
+  "instructorName": "Matthew Mejia",
+  "title": "With call sit hold blue individual.",
+  "description": "Forward loss new point him rule six work. Cold power fact network research.",
+  "totalPoints": 97,
+  "givenDate": {
+    "$date": "2025-06-15T13:26:36.000Z"
+  },
+  "dueDate": {
+    "$date": "2025-07-09T10:55:00.000Z"
+  },
+  "attachments": [],
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-06-15T13:22:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T13:22:51.000Z"
+  },
+  "instructorId": "10b098d9-9d79-4ebc-a181-27de21fe2639"
+},
+{
+  "_id": {
+    "$oid": "684ebc3416b31fb0a3537feb"
+  },
+  "assignmentId": "assign_2",
+  "courseId": "course_1",
+  "lessonId": "lesson_21",
+  "instructorName": "Stephanie Barnes",
+  "title": "Party usually really middle any.",
+  "description": "Institution performance window music too season audience. Talk represent turn marriage instead use. Air environment radio experience wind adult stand at.",
+  "totalPoints": 70,
+  "givenDate": {
+    "$date": "2025-06-15T13:25:18.000Z"
+  },
+  "dueDate": {
+    "$date": "2025-06-17T14:27:20.000Z"
+  },
+  "attachments": [],
+  "isPublished": false,
+  "createdAt": {
+    "$date": "2025-06-15T13:22:56.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T13:24:00.000Z"
+  },
+  "instructorId": "5d32c8a0-edc7-4f0d-8315-9ea73b09637d"
+},
+{
+  "_id": {
+    "$oid": "684ebc3416b31fb0a3537fec"
+  },
+  "assignmentId": "assign_3",
+  "courseId": "course_4",
+  "lessonId": "lesson_7",
+  "instructorName": "Kimberly Wong",
+  "title": "Win project agree air forward election sort form.",
+  "description": "Money next man collection certain road possible manage. Style six program.",
+  "totalPoints": 58,
+  "givenDate": {
+    "$date": "2025-06-15T13:23:18.000Z"
+  },
+  "dueDate": {
+    "$date": "2025-06-22T15:45:32.000Z"
+  },
+  "attachments": [],
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-06-15T13:23:58.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T13:23:37.000Z"
+  },
+  "instructorId": "10b098d9-9d79-4ebc-a181-27de21fe2639"
+},
+{
+  "_id": {
+    "$oid": "684ebc3416b31fb0a3537fed"
+  },
+  "assignmentId": "assign_4",
+  "courseId": "course_3",
+  "lessonId": "lesson_16",
+  "instructorName": "Christopher Sosa",
+  "title": "Others oil take community.",
+  "description": "Former ball mean common democratic become able. Best affect serve citizen quite.",
+  "totalPoints": 86,
+  "givenDate": {
+    "$date": "2025-06-15T13:23:25.000Z"
+  },
+  "dueDate": {
+    "$date": "2025-06-15T15:25:34.000Z"
+  },
+  "attachments": [],
+  "isPublished": false,
+  "createdAt": {
+    "$date": "2025-06-15T13:25:47.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T13:23:53.000Z"
+  },
+  "instructorId": "2c37eaa8-b73a-4fe1-abe7-71bf93de638e"
+},
+{
+  "_id": {
+    "$oid": "684ebc3416b31fb0a3537fee"
+  },
+  "assignmentId": "assign_5",
+  "courseId": "course_4",
+  "lessonId": "lesson_7",
+  "instructorName": "Louis Rodriguez",
+  "title": "Fill democratic old theory even red.",
+  "description": "Expect certainly difference hard everybody partner especially. Member sit heart. Cost social record.",
+  "totalPoints": 94,
+  "givenDate": {
+    "$date": "2025-06-15T13:25:54.000Z"
+  },
+  "dueDate": {
+    "$date": "2025-06-17T15:54:43.000Z"
+  },
+  "attachments": [],
+  "isPublished": false,
+  "createdAt": {
+    "$date": "2025-06-15T13:25:37.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T13:25:07.000Z"
+  },
+  "instructorId": "10b098d9-9d79-4ebc-a181-27de21fe2639"
+},
+{
+  "_id": {
+    "$oid": "684ebc3416b31fb0a3537fef"
+  },
+  "assignmentId": "assign_7",
+  "courseId": "course_1",
+  "lessonId": "lesson_21",
+  "instructorName": "Cathy Roberts",
+  "title": "Recent billion only fight customer.",
+  "description": "Address no those. Top town sense international all contain similar.",
+  "totalPoints": 52,
+  "givenDate": {
+    "$date": "2025-06-15T13:26:31.000Z"
+  },
+  "dueDate": {
+    "$date": "2025-07-04T14:39:26.000Z"
+  },
+  "attachments": [],
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-06-15T13:22:36.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T13:25:53.000Z"
+  },
+  "instructorId": "5d32c8a0-edc7-4f0d-8315-9ea73b09637d"
+},
+{
+  "_id": {
+    "$oid": "684ebc3416b31fb0a3537ff0"
+  },
+  "assignmentId": "assign_8",
+  "courseId": "course_5",
+  "lessonId": "lesson_23",
+  "instructorName": "Bradley Marquez",
+  "title": "Without type seat concern mind appear.",
+  "description": "All father civil plant talk. Four thousand serious the successful painting.",
+  "totalPoints": 75,
+  "givenDate": {
+    "$date": "2025-06-15T13:26:05.000Z"
+  },
+  "dueDate": {
+    "$date": "2025-06-30T04:30:31.000Z"
+  },
+  "attachments": [],
+  "isPublished": true,
+  "createdAt": {
+    "$date": "2025-06-15T13:26:12.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T13:23:37.000Z"
+  },
+  "instructorId": "bdae559f-2f3a-49af-9b36-22ad2ce3657c"
+},
+{
+  "_id": {
+    "$oid": "684ebc3416b31fb0a3537ff1"
+  },
+  "assignmentId": "assign_9",
+  "courseId": "course_7",
+  "lessonId": "lesson_4",
+  "instructorName": "Anthony Randall",
+  "title": "Arrive opportunity see.",
+  "description": "Reach character according nothing region require affect. Natural game close least laugh myself open different. Soldier knowledge later.",
+  "totalPoints": 82,
+  "givenDate": {
+    "$date": "2025-06-15T13:21:38.000Z"
+  },
+  "dueDate": {
+    "$date": "2025-06-19T07:15:14.000Z"
+  },
+  "attachments": [],
+  "isPublished": false,
+  "createdAt": {
+    "$date": "2025-06-15T13:26:32.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T13:22:43.000Z"
+  },
+  "instructorId": "45afd089-eca4-4216-803a-589d94decd65"
+},
+{
+  "_id": {
+    "$oid": "684ebc3416b31fb0a3537ff2"
+  },
+  "assignmentId": "assign_10",
+  "courseId": "course_2",
+  "lessonId": "lesson_15",
+  "instructorName": "Jeffrey Smith",
+  "title": "Poor friend although community.",
+  "description": "Media decade including service bit success piece. Later then produce manage number.",
+  "totalPoints": 73,
+  "givenDate": {
+    "$date": "2025-06-15T13:23:10.000Z"
+  },
+  "dueDate": {
+    "$date": "2025-07-07T19:48:05.000Z"
+  },
+  "attachments": [],
+  "isPublished": false,
+  "createdAt": {
+    "$date": "2025-06-15T13:23:40.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T13:23:23.000Z"
+  },
+  "instructorId": "5f07738c-9e82-4a2f-ba23-287654e3ae7e"
+}]

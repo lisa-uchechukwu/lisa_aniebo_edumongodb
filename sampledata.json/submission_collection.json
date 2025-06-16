@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "684ebc6c16b31fb0a3537ff3"
+  },
+  "submissionId": "sub_1",
+  "assignmentId": "assign_7",
+  "studentId": "92447918-de57-4256-8d57-b2920bc6173f",
+  "submittedAt": {
+    "$date": "2025-07-01T23:32:38.000Z"
+  },
+  "content": "Success lot animal. Member name wear next kind station talk.",
+  "fileUrl": "http://dawson.org/",
+  "score": 27,
+  "feedback": "Then change every check into story material rich.",
+  "gradedBy": "Cathy Roberts",
+  "isLate": false,
+  "gradeDate": {
+    "$date": "2025-07-01T23:32:38.463Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ebc6c16b31fb0a3537ff4"
+  },
+  "submissionId": "sub_2",
+  "assignmentId": "assign_9",
+  "studentId": "c138ab1c-af4a-4414-b8a0-547fda28c0b0",
+  "submittedAt": {
+    "$date": "2025-06-20T02:06:28.000Z"
+  },
+  "content": "Reason send thousand bed customer room idea. Yet perhaps upon.",
+  "fileUrl": "https://santiago-hunt.com/",
+  "score": 59,
+  "feedback": "Mouth six continue food war few will four boy.",
+  "gradedBy": "Anthony Randall",
+  "isLate": true,
+  "gradeDate": {
+    "$date": "2025-06-20T02:06:28.299Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ebc6c16b31fb0a3537ff5"
+  },
+  "submissionId": "sub_3",
+  "assignmentId": "assign_10",
+  "studentId": "37f3a269-f0f1-4082-8914-3ec5ecfe746b",
+  "submittedAt": {
+    "$date": "2025-06-19T02:28:45.000Z"
+  },
+  "content": "Floor ball method. White safe certainly push cost middle provide born. Already property board I could worry begin marriage.",
+  "fileUrl": "https://patton.com/",
+  "score": 86,
+  "feedback": " well done!",
+  "gradedBy": "Jeffrey Smith",
+  "isLate": false,
+  "gradeDate": {
+    "$date": "2025-06-15T16:26:52.135Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ebc6c16b31fb0a3537ff6"
+  },
+  "submissionId": "sub_4",
+  "assignmentId": "assign_5",
+  "studentId": "37f3a269-f0f1-4082-8914-3ec5ecfe746b",
+  "submittedAt": {
+    "$date": "2025-06-22T15:22:56.000Z"
+  },
+  "content": "Side middle save others box certain newspaper director. Reflect major finish set that politics. Apply firm modern trade sport identify office. Understand pass treatment land event.",
+  "fileUrl": "https://www.jones.net/",
+  "score": 64,
+  "feedback": "Debate remain wide especially behavior stop government use moment field join.",
+  "gradedBy": "Louis Rodriguez",
+  "isLate": true,
+  "gradeDate": {
+    "$date": "2025-06-22T15:22:56.733Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ebc6c16b31fb0a3537ff7"
+  },
+  "submissionId": "sub_5",
+  "assignmentId": "assign_8",
+  "studentId": "895f1d23-09ad-4211-ad98-476c69fc9339",
+  "submittedAt": {
+    "$date": "2025-06-28T03:59:05.000Z"
+  },
+  "content": "Within sort surface across. Continue project study will.",
+  "fileUrl": "https://york.info/",
+  "score": 44,
+  "feedback": "Fear century every believe add station different painting from weight heavy.",
+  "gradedBy": "Bradley Marquez",
+  "isLate": false,
+  "gradeDate": {
+    "$date": "2025-06-28T03:59:05.111Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ebc6c16b31fb0a3537ff8"
+  },
+  "submissionId": "sub_6",
+  "assignmentId": "assign_5",
+  "studentId": "92447918-de57-4256-8d57-b2920bc6173f",
+  "submittedAt": {
+    "$date": "2025-06-16T05:19:49.000Z"
+  },
+  "content": "East fill meeting good executive. Method effect standard opportunity common piece professor. Role dark tonight.",
+  "fileUrl": "https://www.miller-morgan.com/",
+  "score": 79,
+  "feedback": "Check fish provide world successful.",
+  "gradedBy": "Louis Rodriguez",
+  "isLate": false,
+  "gradeDate": {
+    "$date": "2025-06-16T05:19:49.773Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ebc6c16b31fb0a3537ff9"
+  },
+  "submissionId": "sub_7",
+  "assignmentId": "assign_3",
+  "studentId": "1ab9d687-2803-4a74-9c74-6f89d78926d6",
+  "submittedAt": {
+    "$date": "2025-06-27T08:04:46.000Z"
+  },
+  "content": "Doctor recognize include. Life own none safe ahead up. Trade participant red number company guess form. Push size always sea decision.",
+  "fileUrl": "https://graham-harper.com/",
+  "score": 14,
+  "feedback": "Condition scientist data goal weight believe model deal audience choose.",
+  "gradedBy": "Kimberly Wong",
+  "isLate": true,
+  "gradeDate": {
+    "$date": "2025-06-27T08:04:46.506Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ebc6c16b31fb0a3537ffa"
+  },
+  "submissionId": "sub_8",
+  "assignmentId": "assign_7",
+  "studentId": "bc84b583-6ce7-4c84-b3a9-8bda575c4231",
+  "submittedAt": {
+    "$date": "2025-06-24T03:17:49.000Z"
+  },
+  "content": "Best it return early own peace decision. Stock play house develop school pass. Phone per across animal. Ahead important small interesting least building.",
+  "fileUrl": "https://sanchez.com/",
+  "score": 36,
+  "feedback": "College support left control eight million situation.",
+  "gradedBy": "Cathy Roberts",
+  "isLate": false,
+  "gradeDate": {
+    "$date": "2025-06-24T03:17:49.410Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ebc6c16b31fb0a3537ffb"
+  },
+  "submissionId": "sub_9",
+  "assignmentId": "assign_2",
+  "studentId": "92447918-de57-4256-8d57-b2920bc6173f",
+  "submittedAt": {
+    "$date": "2025-06-19T02:05:34.000Z"
+  },
+  "content": "Must machine avoid baby chance would girl. Watch respond seven thousand force. Cold each marriage brother open.",
+  "fileUrl": "http://dennis.com/",
+  "score": 4,
+  "feedback": "Light many discuss management street those image east poor wife.",
+  "gradedBy": "Stephanie Barnes",
+  "isLate": true,
+  "gradeDate": {
+    "$date": "2025-06-19T02:05:34.704Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ebc6c16b31fb0a3537ffc"
+  },
+  "submissionId": "sub_10",
+  "assignmentId": "assign_1",
+  "studentId": "fc3c841a-1396-4d02-bda5-56064edb8f51",
+  "submittedAt": {
+    "$date": "2025-07-06T17:04:49.000Z"
+  },
+  "content": "Strategy article evening then audience pretty. Law stuff effort.",
+  "fileUrl": "https://costa.net/",
+  "score": 17,
+  "feedback": "Southern apply relate building sell maintain write particular still describe.",
+  "gradedBy": "Matthew Mejia",
+  "isLate": false,
+  "gradeDate": {
+    "$date": "2025-07-06T17:04:49.178Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ebc6c16b31fb0a3537ffd"
+  },
+  "submissionId": "sub_11",
+  "assignmentId": "assign_4",
+  "studentId": "e3b6a3ab-86d9-4c98-b092-6d9e30c15e9e",
+  "submittedAt": {
+    "$date": "2025-06-17T03:29:29.000Z"
+  },
+  "content": "Reason face skill total old specific. Occur them back matter car anyone. Culture door important people seat trial project.",
+  "fileUrl": "https://www.brown.com/",
+  "score": 42,
+  "feedback": "His bad product enter may although season.",
+  "gradedBy": "Christopher Sosa",
+  "isLate": true,
+  "gradeDate": {
+    "$date": "2025-06-17T03:29:29.463Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ebc6c16b31fb0a3537ffe"
+  },
+  "submissionId": "sub_12",
+  "assignmentId": "assign_5",
+  "studentId": "37f3a269-f0f1-4082-8914-3ec5ecfe746b",
+  "submittedAt": {
+    "$date": "2025-06-18T02:01:54.000Z"
+  },
+  "content": "Key move program someone forget outside owner. Pull cup difficult visit can however.",
+  "fileUrl": "https://www.calhoun.com/",
+  "score": 31,
+  "feedback": "Discover majority art there hotel.",
+  "gradedBy": "Louis Rodriguez",
+  "isLate": true,
+  "gradeDate": {
+    "$date": "2025-06-18T02:01:54.660Z"
+  }
+}]

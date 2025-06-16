@@ -1,0 +1,501 @@
+[{
+  "_id": {
+    "$oid": "684ec19f16b31fb0a3538005"
+  },
+  "userId": "febc251a-cd99-425b-8031-3c30ba1dfd3f",
+  "email": "garywilliams@example.net",
+  "firstName": "Timothy",
+  "lastName": "Harper",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-01-23T20:06:03.000Z"
+  },
+  "profile": {
+    "bio": "a male",
+    "avatar": "https://placekitten.com/62/388",
+    "skills": [
+      "python",
+      "SQL"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684ec19f16b31fb0a3538006"
+  },
+  "userId": "6dc1e62b-e92d-42cd-9e39-0d3d162d939b",
+  "email": "barreraemily@example.com",
+  "firstName": "Laurie",
+  "lastName": "Krueger",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-07T22:58:08.000Z"
+  },
+  "profile": {
+    "bio": "Behavior front feeling our side reduce newspaper.",
+    "avatar": "https://dummyimage.com/653x1020",
+    "skills": [
+      "Community pharmacist",
+      "Manufacturing systems engineer",
+      "Actuary"
+    ],
+    "isActive": false
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684ec19f16b31fb0a3538007"
+  },
+  "userId": "40a308fd-9653-4a7f-ba5e-76b34984a351",
+  "email": "vcisneros@example.net",
+  "firstName": "Shane",
+  "lastName": "Ramirez",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-03-28T11:46:47.000Z"
+  },
+  "profile": {
+    "bio": "Board memory last social.",
+    "avatar": "https://placekitten.com/732/940",
+    "skills": [
+      "Dramatherapist",
+      "Structural engineer",
+      "Designer, graphic"
+    ]
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684ec19f16b31fb0a3538008"
+  },
+  "userId": "0a653b27-317f-4675-a4de-02bcd844c96d",
+  "email": "lgarza@example.com",
+  "firstName": "Andrew",
+  "lastName": "Sanders",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-03-10T07:24:35.000Z"
+  },
+  "profile": {
+    "bio": "President manager field feel better.",
+    "avatar": "https://picsum.photos/948/13",
+    "skills": [
+      "Brewing technologist",
+      "Research scientist (maths)"
+    ]
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684ec19f16b31fb0a3538009"
+  },
+  "userId": "c9ea4e17-37b4-4e96-b19d-8b2f069d28f0",
+  "email": "qpeck@example.com",
+  "firstName": "John",
+  "lastName": "Garrett",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-01-03T00:29:37.000Z"
+  },
+  "profile": {
+    "bio": "Part once one speak bar.",
+    "avatar": "https://dummyimage.com/346x492",
+    "skills": [
+      "Investment banker, corporate",
+      "Homeopath"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684ec19f16b31fb0a353800a"
+  },
+  "userId": "75e9ac6f-8f15-443b-aa67-737b0ae2b700",
+  "email": "danielbarber@example.net",
+  "firstName": "Ashley",
+  "lastName": "Wood",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-04-24T03:34:43.000Z"
+  },
+  "profile": {
+    "bio": "Growth south already down parent.",
+    "avatar": "https://placekitten.com/596/231",
+    "skills": [
+      "Race relations officer"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684ec19f16b31fb0a353800b"
+  },
+  "userId": "2185d2ee-9ffb-407f-b03e-4fba29a660ba",
+  "email": "lloydkristin@example.org",
+  "firstName": "Michael",
+  "lastName": "Manning",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-07T21:46:21.000Z"
+  },
+  "profile": {
+    "bio": "Song herself tree project cup center memory music.",
+    "avatar": "https://placekitten.com/184/931",
+    "skills": [
+      "Speech and language therapist",
+      "Risk manager"
+    ]
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684ec19f16b31fb0a353800c"
+  },
+  "userId": "08bd92d2-3bc9-4adf-903d-9a0759469184",
+  "email": "amyespinoza@example.net",
+  "firstName": "Ryan",
+  "lastName": "Kemp",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-04-29T16:30:08.000Z"
+  },
+  "profile": {
+    "bio": "Look sign for.",
+    "avatar": "https://picsum.photos/588/401",
+    "skills": [
+      "Games developer",
+      "Research officer, political party",
+      "Copy"
+    ]
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684ec19f16b31fb0a353800d"
+  },
+  "userId": "4ba15184-8c3f-48a9-89ae-5a1455c896b7",
+  "email": "egomez@example.org",
+  "firstName": "Wesley",
+  "lastName": "Williamson",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-05-21T12:39:18.000Z"
+  },
+  "profile": {
+    "bio": "Explain return production national husband.",
+    "avatar": "https://picsum.photos/44/662",
+    "skills": [
+      "Mining engineer",
+      "Radio producer",
+      "Presenter, broadcasting"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684ec19f16b31fb0a353800e"
+  },
+  "userId": "91603e05-32f8-43ce-a44e-ca1e8541b43d",
+  "email": "jimenezbrittany@example.net",
+  "firstName": "Lee",
+  "lastName": "Garrett",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-01-13T04:13:29.000Z"
+  },
+  "profile": {
+    "bio": "Share either start.",
+    "avatar": "https://dummyimage.com/271x241",
+    "skills": [
+      "Race relations officer",
+      "General practice doctor",
+      "Land"
+    ]
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684ec19f16b31fb0a353800f"
+  },
+  "userId": "0fdf1e09-85d7-4294-8dab-139eb5eb17d0",
+  "email": "qhernandez@example.net",
+  "firstName": "William",
+  "lastName": "Gomez",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-05-16T06:47:47.000Z"
+  },
+  "profile": {
+    "bio": "Sport score human financial eat who.",
+    "avatar": "https://dummyimage.com/426x556",
+    "skills": [
+      "Systems analyst",
+      "Hotel manager",
+      "Engineer, chemical"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684ec19f16b31fb0a3538010"
+  },
+  "userId": "9074818f-c46f-4c8c-b5b7-726a2a5d4ce4",
+  "email": "james01@example.com",
+  "firstName": "Mitchell",
+  "lastName": "Murray",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-04-21T06:34:55.000Z"
+  },
+  "profile": {
+    "bio": "Opportunity security discuss drive look usually.",
+    "avatar": "https://picsum.photos/638/966",
+    "skills": [
+      "Radiographer, therapeutic"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684ec19f16b31fb0a3538011"
+  },
+  "userId": "5d5e3bc1-98a2-4280-8843-0562be81bdb8",
+  "email": "turnerjonathan@example.org",
+  "firstName": "Heather",
+  "lastName": "Guerrero",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-15T00:57:56.000Z"
+  },
+  "profile": {
+    "bio": "Interest compare pick everybody already thing occur.",
+    "avatar": "https://picsum.photos/155/561",
+    "skills": [
+      "Forensic psychologist"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684ec19f16b31fb0a3538012"
+  },
+  "userId": "54696721-633f-4a88-9a4a-3ee209907615",
+  "email": "lydia51@example.net",
+  "firstName": "Kathleen",
+  "lastName": "Thompson",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-02-11T19:34:28.000Z"
+  },
+  "profile": {
+    "bio": "Whose newspaper growth question care single wonder exactly.",
+    "avatar": "https://placekitten.com/372/258",
+    "skills": [
+      "Furniture designer",
+      "Producer, television/film/video"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684ec19f16b31fb0a3538013"
+  },
+  "userId": "221bdfbd-a2a8-419c-a35f-50c34b32cba4",
+  "email": "adamsjulie@example.net",
+  "firstName": "Trevor",
+  "lastName": "Barrett",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-05-26T01:12:39.000Z"
+  },
+  "profile": {
+    "bio": "Huge guess growth.",
+    "avatar": "https://picsum.photos/367/114",
+    "skills": [
+      "Veterinary surgeon",
+      "Mudlogger"
+    ]
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684ec19f16b31fb0a3538014"
+  },
+  "userId": "ff296f63-308d-465b-bd79-55eebdb2abc9",
+  "email": "hbonilla@example.com",
+  "firstName": "John",
+  "lastName": "Mcgee",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-03-14T02:18:35.000Z"
+  },
+  "profile": {
+    "bio": "Type race me happen.",
+    "avatar": "https://placekitten.com/419/437",
+    "skills": [
+      "Landscape architect",
+      "Tourism officer"
+    ]
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684ec19f16b31fb0a3538015"
+  },
+  "userId": "53d25fd1-8f22-4ea6-859a-5a2a0c48a426",
+  "email": "meyerjennifer@example.org",
+  "firstName": "John",
+  "lastName": "Mullins",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-03-24T21:20:32.000Z"
+  },
+  "profile": {
+    "bio": "Issue group how away be claim.",
+    "avatar": "https://dummyimage.com/777x509",
+    "skills": [
+      "Lecturer, higher education",
+      "Lecturer, further education",
+      "Television camera operator"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684ec19f16b31fb0a3538016"
+  },
+  "userId": "6dcf16ca-2bb6-4f17-926b-ff9af44bda45",
+  "email": "michael92@example.org",
+  "firstName": "Kenneth",
+  "lastName": "Hall",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-04-21T16:40:25.000Z"
+  },
+  "profile": {
+    "bio": "Machine age notice positive join.",
+    "avatar": "https://picsum.photos/910/364",
+    "skills": [
+      "Armed forces logistics/support/administrative officer"
+    ]
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684ec19f16b31fb0a3538017"
+  },
+  "userId": "ec4a4f1a-dabe-4e96-b6be-361f119c506a",
+  "email": "bgarcia@example.org",
+  "firstName": "Sarah",
+  "lastName": "Snyder",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-01-12T21:24:59.000Z"
+  },
+  "profile": {
+    "bio": "Early window hospital sister.",
+    "avatar": "https://picsum.photos/217/405",
+    "skills": [
+      "Set designer",
+      "Psychologist, prison and probation services"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684ec43916b31fb0a353801e"
+  },
+  "userId": "46f1cdb0-3769-4e07-8698-33b31169faf0",
+  "email": "bavila@example.com",
+  "firstName": "Maurice",
+  "lastName": "Torres",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-15T14:01:45.864Z"
+  },
+  "profile": {
+    "bio": "Year manage figure account suffer.",
+    "avatar": "https://dummyimage.com/548x881",
+    "skills": [
+      "Art gallery manager",
+      "Chartered management accountant"
+    ]
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684eda04b83d30de7abe2a3b"
+  },
+  "userId": "5b2b1136-89cb-4efb-8aee-763fb14d6d61",
+  "email": "lisa@gmail.com",
+  "firstName": "lisa",
+  "lastName": "aniebo",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-15T15:34:44.449Z"
+  },
+  "profile": {
+    "bio": "she is a female",
+    "avatar": "https://picsum.photos/848/299",
+    "skills": [
+      "Food technologist",
+      "Dancer"
+    ]
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684f18b0b83d30de7abe2a50"
+  },
+  "userId": "123",
+  "email": "duplicate@example.com",
+  "firstName": "John",
+  "lastName": "Doe",
+  "role": "student",
+  "dateJoined": {
+    "$date": "2025-06-15T19:02:08.625Z"
+  },
+  "isActive": true,
+  "profile": {}
+},
+{
+  "_id": {
+    "$oid": "684f254ab83d30de7abe2a56"
+  },
+  "userId": "456",
+  "email": "jane@example.com",
+  "firstName": "Jane",
+  "lastName": "Smith",
+  "role": "instructor",
+  "dateJoined": {
+    "$date": "2025-06-15T19:55:54.559Z"
+  },
+  "isActive": true,
+  "profile": {
+    "bio": "Experienced instructor.",
+    "social": {
+      "twitter": "@jane_doe"
+    }
+  }
+}]
